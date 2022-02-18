@@ -1,1 +1,3 @@
 # rurikon-project
+
+Discontinued or put on hold, I'm really not sure...
